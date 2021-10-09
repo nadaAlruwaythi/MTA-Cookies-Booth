@@ -7,5 +7,5 @@
 
 * the second step is to find the busiest day at the stations figure 2 below
 ![image](https://user-images.githubusercontent.com/67028272/136674577-8babfc77-f937-4962-9cd5-4df7cc543b8c.png) 
-*   figure 2
+ figure 2
 
