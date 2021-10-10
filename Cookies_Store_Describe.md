@@ -8,9 +8,9 @@ The New York City Subway is a rapid transit system that serves four of the five 
 # Backstory
 
 As a well-known cookies store working in New York, which provides improves the product's quality by taking feedback from clients while also increasing the store's income. Every customer who buys cookies and completes the survey will receive free cookies. It targets the most crowded station and during rush hours to put the booth cookies. I used these months August, September, October, and November because it's almost the end of summer.
-Question:
-What are the busiest stations to place booth cookie?
-What are the peak hours at the stations?
+* Question:
+* What are the busiest stations to place booth cookie?
+* What are the peak hours at the stations?
  
 
 # Used data set
