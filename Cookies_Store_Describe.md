@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/67028272/136703548-3a9db76d-f5a9-4ae7-913a-5c176e627988.png)
+
 # Introduction 
 
 The New York City Subway is a rapid transit system that serves four of the five boroughs of New York City, New York: the Bronx, Brooklyn, Manhattan, and Queens. Its operator is the New York City Transit Authority (NYCTA), which is controlled by the Metropolitan Transportation Authority (MTA) of New York. In 2016, an average of 5.66 million passengers used the system daily, making it the busiest rapid transit system in the United States and the seventh busiest in the world [1]. These stations would be optimal for placing for promoting and marketing the cookies store.
