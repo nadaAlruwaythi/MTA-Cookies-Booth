@@ -3,12 +3,11 @@
 
 ![image](https://user-images.githubusercontent.com/67028272/136674510-42a0d18d-c71f-46e6-b705-f399fa43ef1c.png)
 
-      figure 1
-    
+(figure 1)
 The highest traffic station is "GRD CNTRL-42 ST"
 
 * the second step is to find the busiest day at the stations figure 2 below
 ![image](https://user-images.githubusercontent.com/67028272/136674577-8babfc77-f937-4962-9cd5-4df7cc543b8c.png) 
-   
-   
-   figure 2
+
+  (figure 2)
+  The highest day is Thursday.
