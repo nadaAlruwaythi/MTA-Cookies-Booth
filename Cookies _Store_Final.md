@@ -1,9 +1,9 @@
-![image](https://user-images.githubusercontent.com/67028272/136703085-504eae14-6646-4ed4-9130-80be7a0416eb.png)
 
+![image](https://user-images.githubusercontent.com/67028272/136703085-504eae14-6646-4ed4-9130-80be7a0416eb.png)
 
 # Abstract
 
-* The purpose of this project is to study and understand the Metropolitan Transportation Authority's MTA data set. I used publicly data available from the Metropolitan Transportation Authority site, where I chose to work for four months in 2019, to place booth cookies at stations and visualize the data using the Python matplotlib library.
+* The purpose of this project is to study and understand the Metropolitan Transportation Authority's MTA data set. I used public data available from the Metropolitan Transportation Authority site, where I chose to work for four months in 2019, The goal of this project is to market for the cookie booth, to do that we need to choose the best place and time to set up the booth at stations, as well as visualize the data with the Python matplotlib tool.
 
 
 # Design 
